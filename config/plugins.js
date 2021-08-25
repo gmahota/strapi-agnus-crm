@@ -7,7 +7,7 @@ module.exports = ({ env }) => ({
     },
     settings: {
       defaultFrom: "not-replay@mahotaservicos.com",
-      defaultReplyTo: "suport@ahotaservicos.com",
+      defaultReplyTo: "suport@mahotaservicos.com",
       testAddress: "guimaraesmahota@gmail.com",
     },
   },
