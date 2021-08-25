@@ -6,8 +6,8 @@ module.exports = ({ env }) => ({
       apiKey: env("SENDGRID_API_KEY"),
     },
     settings: {
-      defaultFrom: "not-replay@mahotaservicos.com",
-      defaultReplyTo: "suport@mahotaservicos.com",
+      defaultFrom: "no-replay@mahotaservicos.com",
+      defaultReplyTo: "developer@mahotaservicos.com",
       testAddress: "guimaraesmahota@gmail.com",
     },
   },
